@@ -1,0 +1,8 @@
+# input data, saved log, checkpoints
+alexnet_data_in/
+alexnet_data_out/
+
+# editor, os cache directory
+.vscode/
+.idea/
+__MACOSX/
